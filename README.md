@@ -26,11 +26,6 @@
         <li>☕ <b>Fun Fact:</b> My brain functions on a simple algorithm: <code>while(no_coffee) { do_not_eat(); }</code>. Coffee > Food.</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjihn&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-      </div>
-    </td>
   </tr>
 </table>
 
@@ -40,7 +35,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamjihn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamjihn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjihn&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 </p>
+
+     
 
 ---
 
